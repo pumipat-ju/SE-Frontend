@@ -47,7 +47,7 @@ export default function Home() {
             ระบบตรวจจับวัตถุด้วย YOLO
           </h1>
           <p className="text-gray-600 text-lg">
-            มหาวิทยาลัยขอนแก่น | Khon Kaen University
+            663380290-8 ภูมิพัฒน์ จำเริญเนาว์ section 1
           </p>
           <div className="mt-4 flex justify-center gap-4">
             <span className="inline-block bg-kku-gold text-gray-900 px-4 py-2 rounded-full text-sm font-semibold">
